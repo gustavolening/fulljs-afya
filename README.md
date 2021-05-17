@@ -2,7 +2,7 @@
 ## Template Node FullJS
 
 Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
+`git clone https://github.com/gustavolening/fulljs-afya`
 
 Para instalar as dependências:
 `npm i`
