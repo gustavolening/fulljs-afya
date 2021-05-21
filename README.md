@@ -1,4 +1,8 @@
 # Gama Academy :)
+
+## Link para o projeto
+`https://fulljs-afya-alpha.vercel.app/`
+
 ## Template Node FullJS
 
 Para iniciar o projeto:
